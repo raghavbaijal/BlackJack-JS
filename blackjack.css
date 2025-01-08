@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: url("./blackjack1.jpg");
+}
+
+#dealer-cards img {
+    height:175px;
+    width:125px;
+    margin: 1px;
+}
+
+#your-cards img {
+    height:175px;
+    width:125px;
+    margin: 1px;
+}
+
+#hit {
+    height:100px;
+    width:50px;
+    margin: 20px;
+}
+
+#stay {
+    height:100px;
+    width:50px;
+    margin: 20px;
+}
+
+
+
+
+
+
